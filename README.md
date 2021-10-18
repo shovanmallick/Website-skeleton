@@ -1,2 +1,2 @@
 # Website-skeleton
-A Basic Website
+A Basic Website layout
